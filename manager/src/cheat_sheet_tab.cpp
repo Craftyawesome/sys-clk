@@ -39,7 +39,7 @@ CheatSheetTab::CheatSheetTab()
 
     gpuTable->addRow(brls::TableRowType::BODY, "Maximum", "921 MHz");
     gpuTable->addRow(brls::TableRowType::BODY, "Official Docked", "768 MHz");
-    gpuTable->addRow(brls::TableRowType::BODY, "Maximum Handheld", "460 MHz");
+    gpuTable->addRow(brls::TableRowType::BODY, "Maximum Handheld", "768 MHz");
     gpuTable->addRow(brls::TableRowType::BODY, "Official Handheld", "384 MHz");
 
     this->addView(gpuTable);
